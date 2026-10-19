@@ -1,1 +1,0 @@
-"""LegalEase FastAPI backend package."""
