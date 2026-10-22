@@ -47,5 +47,6 @@ Check Render Logs for failures. Never share your API key. AI-generated legal dra
 📄 Create Legal Documents Easily with AI!
 Generate your legal document drafts quickly and conveniently with LegalEase.
 🔗 Try LegalEase Now! 👇
-🚀 Open LegalEase App⁠�
+🚀 Open LegalEase app:
+https://legalease-4rnr.onrender.com
 ⚖️ LegalEase — Simplifying Legal Documentation with Ai
