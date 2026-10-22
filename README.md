@@ -42,3 +42,10 @@ Start: `streamlit run app.py --server.address 0.0.0.0 --server.port $PORT`
 Environment variable: `BACKEND_URL` = the backend's full public URL, without `/docs`.
 
 Check Render Logs for failures. Never share your API key. AI-generated legal drafts must be reviewed by a qualified lawyer.
+⚖️ LegalEase
+✨ AI-Powered Legal Document Generator
+📄 Create Legal Documents Easily with AI!
+Generate your legal document drafts quickly and conveniently with LegalEase.
+🔗 Try LegalEase Now! 👇
+🚀 Open LegalEase App⁠�
+⚖️ LegalEase — Simplifying Legal Documentation with Ai
